@@ -1,0 +1,94 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+
+}
+
+header {
+    background: linear-gradient(black,rgba(0, 0, 0, 0.5),rgba(0, 0, 0,0.08));
+    box-sizing: border-box;
+    transition: .3s;
+}
+
+header.black{
+
+    background: rgba(0, 0, 0, 0.8);
+}
+
+
+
+header ul li a{
+
+    color: #e9e9e9 !important;
+    transition: .3s;
+}
+
+header ul li a:hover{
+
+    color: #ffffff !important;
+
+}
+
+header.black ul li a{
+
+    color: #ffffff;
+}
+
+
+
+.cont1{
+
+    min-height: 90vh;
+    background-image: url(../img/fundo4.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+
+}
+.contblack{
+
+    background: rgba(0, 0, 0, 0.1);
+    min-height: 90vh;
+}
+.infocont1{
+    padding-top: 20%;
+    color: #ffffff;
+}
+.cont2{
+
+    background: #222;
+    min-height: 70vh;
+
+}
+
+.cont3{
+    background: #282828;
+    font-family: 'Roboto', sans-serif;
+}
+
+.contprod{
+
+    background: #eeeeee;
+    min-height: 70vh;
+
+}
+
+.rodape{
+
+    background: #222;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
