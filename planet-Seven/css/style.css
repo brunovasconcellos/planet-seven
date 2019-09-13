@@ -1,8 +1,7 @@
-
 body{
 
     font-family: 'Poppins', sans-serif;
-    
+
 }
 
 header {
@@ -12,7 +11,7 @@ header {
 }
 
 header.black{
-
+    
     background: rgba(0, 0, 0, 0.8);
 }
 
@@ -46,12 +45,12 @@ header.black ul li a{
     background-size: cover;
     background-attachment: fixed;
     color: #ffffff;
-}
 
+}
 .text-cont1{
 
     
-    font-family:'Roboto', sans-serif;
+    font-family: 'Lobster', cursive;
 
 }
 
@@ -59,7 +58,6 @@ header.black ul li a{
     padding-top: 20%;
 
 }
-
 .cont2{
     background: linear-gradient(to bottom, #222 30%, rgb(14, 14, 14) 100%);
     min-height: 60vh;
@@ -77,6 +75,7 @@ header.black ul li a{
     border: solid 3px #222;
 }
 
+
 .cont2::after{
     content: '';
     width: 58%;
@@ -90,14 +89,14 @@ header.black ul li a{
 }
 
 .cont3{
-    background: linear-gradient(to top, #d6d6d6 4%, rgb(27, 27, 27) 50%);
+    background: linear-gradient(to top, #d6d6d6 4%, rgb(17, 17, 17) 60%);
     font-family: 'Roboto', sans-serif;
 }
 
 .contprod{
 
     background: #eeeeee;
-    min-height: 90vh;
+    min-height: 85vh;
 
 }
 
@@ -108,6 +107,7 @@ header.black ul li a{
     
 
 }
+
 
 .card-body{
 
@@ -128,10 +128,16 @@ header.black ul li a{
     min-height: 50vh;
 
 }
+.navitem{
+    filter: opacity(80%);
+    color: #ffffff !important;
+    
+}
 
-.listas {
-
-    text-decoration: none;
+.navitem:hover{
+    color: #ffffff !important;
+    transition: .3s;
+    filter: opacity(100%);
 
 }
 
@@ -141,9 +147,6 @@ footer{
     color: #ffffff;
 
 }
-
-
-
 
 
 

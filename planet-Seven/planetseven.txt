@@ -1,0 +1,35 @@
+  [Primeira div] 
+          (Coleção Planet 2019) 
+   Nesta nossa nova coleção Planet 2019 possui uma variedades 
+   de novas roupas para diversos tipos de gostos, tais 
+   como bonés, camisas, bermudas, calças, casacos, shoulder 
+   bag e muito mais.
+   
+  [Segunda div]
+          (Camisas)
+   Temos diversas camisas para todos os
+   gostos e tudo projetado, para o seu prazer e
+   conforto. Temos camisas listradas,com 
+   estampa, sem estampa, camisetas. Isto tudo
+   com uma variedade de preços que cabe no seu bolso. 
+   
+   [Terceira div]
+        (Bermudas e Calças)
+   Para o seu conforto também temos bermudas e calças, com 
+   uma variedade de cores e estilo para você. Feita tanto 
+   para você usar no dia a dia quanto para aquela festa
+   de sexta-feira, feita pensada em você nosso consumidor. 
+   
+   [Quarta div] 
+        (Acessório)
+   Pra acessórios nós temos bonés e sholder bags que iram fazer 
+   mudar o seu jeito de se vestir. Temos vários modelos para você escolher
+   e se vestir do jeito que quiser.
+
+   [Quinta div (opcional)]
+        (Feminino)
+   Para a surpresa das mulheres, temos também blusas femininas, com vários 
+   modelos e cores para a sua ppreferência.  
+
+
+ 

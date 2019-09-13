@@ -1,0 +1,32 @@
+
+(function (){
+    let $target = $(".anime");
+    let animationOn = "animation-on";
+    let offSet = $(window).height() *3/4;
+
+    function animationScroll(){
+
+        let windowTop = $(document).scrollTop();
+
+        $target.each(()=>{
+
+            let item = $(this).offset().top;
+            if(windowTop > item - offSet){
+
+             $(this).addClass(animationOn);
+
+            }else{
+
+                $(this).removeClass(animationOn);
+            
+            }
+
+        })
+    animationScroll();
+    }
+    $(document).scroll(()=>{
+
+        animationScroll();
+
+    });
+}())
